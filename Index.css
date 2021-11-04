@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+	 
+	     body{
+		 color:black;
+		 font-family: latha;
+		 background-size: cover;
+		
+	 }
+	 
+	    .box{ width: 900px;
+	    float:right;
+	    border:5px solid none;}
+	 
+	    .box ul li{
+	    width: 150px;
+	    float: left;
+	    margin: 10px auto;
+	    text-align: center;
+	 }
+	 
+	 .box ul li a{ text-decoration: none;
+	 color:black;}
+	 
+	 .box ul li:hover{ background-color: rgb(180, 117, 182);}
+	 .box ul li a:hover{ color:black}
+	 
+	 .wd{
+	    width: 200px;
+		height: 650px;
+		background-color:rgb(180, 117, 182);
+		opacity: 0.9;
+		padding: 55px;
+
+	 }
+     
+	
+	.wd h1{
+	    text-align: center;
+		font-size: 20px;
+		background-color:black;
+		color:white;
+		padding: 3px;
+	 }
+	 
+	 .wd h4{
+	     text-align: justify;
+		 color:black;
+		 font-weight: normal;
+	 }
+	 
+	 .wd h3{
+		margin: 20px auto;
+	     text-align: center;
+		 text-transform: uppercase;
+		 font-weight:normal;
+		 color:black;
+		
+	 }
+	 
+	/* Style all font awesome icons */
+.fa {
+	padding: 1px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+	opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-map-marker {
+	color: white;
+  }
+  
+  /* Twitter */
+  .fa-phone {
+	color: white;
+  }
+  
+.ul
+  {
+	  color:white;
+  }
+
+.footer{
+    text-align: center;
+	padding: 3px;
+	background-color:black;
+	color: white;
+	top: 1px;
+	position: relative;
+}
