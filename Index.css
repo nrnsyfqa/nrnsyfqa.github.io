@@ -27,7 +27,7 @@
 	 
 	 .wd{
 	    width: 200px;
-		height: 650px;
+		height: 700px;
 		background-color:rgb(180, 117, 182);
 		opacity: 0.9;
 		padding: 55px;
@@ -74,15 +74,20 @@
   
   /* Set a specific color for each brand */
   
-  /* Facebook */
+  /* Address */
   .fa-map-marker {
 	color: white;
   }
   
-  /* Twitter */
+ /* No phone */
   .fa-phone {
 	color: white;
   }
+
+  /* Email */
+ .fa-envelope {
+	 color: white;
+ }
   
 .ul
   {
